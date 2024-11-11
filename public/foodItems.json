@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "food_name": "Spaghetti Carbonara",
+    "food_cuisine": "Italian",
+    "image": "../src/assets/Media/foodSlider/burger.png"
+  },
+  {
+    "id": 2,
+    "food_name": "Sushi",
+    "food_cuisine": "Japanese",
+    "image": "../src/assets/Media/foodSlider/pizza.png"
+  },
+  {
+    "id": 3,
+    "food_name": "Tacos",
+    "food_cuisine": "Mexican",
+    "image": "../src/assets/Media/foodSlider/fries.png"
+  },
+  {
+    "id": 4,
+    "food_name": "Croissant",
+    "food_cuisine": "French",
+    "image": "../src/assets/Media/foodSlider/nuggets.png"
+  },
+  {
+    "id": 5,
+    "food_name": "Butter Chicken",
+    "food_cuisine": "Indian",
+    "image": "https://example.com/images/butter-chicken.jpg"
+  },
+  {
+    "id": 6,
+    "food_name": "Pad Thai",
+    "food_cuisine": "Thai",
+    "image": "https://example.com/images/pad-thai.jpg"
+  },
+  {
+    "id": 7,
+    "food_name": "Falafel",
+    "food_cuisine": "Middle Eastern",
+    "image": "https://example.com/images/falafel.jpg"
+  },
+  {
+    "id": 8,
+    "food_name": "Hamburger",
+    "food_cuisine": "American",
+    "image": "https://example.com/images/hamburger.jpg"
+  }
+]
